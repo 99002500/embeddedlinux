@@ -1,0 +1,23 @@
+Today's Activity:
+
+1. Learning videos:
+
+1, https://www.youtube.com/watch?v=UMEUo6Wm6u4&list=PLGs0VKk2Di...
+
+2. https://www.youtube.com/watch?v=c81tmb7WJxw&list=PLGs0VKk2Di...
+
+After watching videos write the step by step configuration of the boards and set up in the window as well as in linux
+
+2. Differences between Raspberry pie , Dragon, imx7 Sabre, BBB
+
+3. Differences in different versions of BBB and write the evolution of the Beagle bone.
+
+4. In Excel make the Pin expansion header of BBB and locate the various peripherals of Bone.
+
+
+
+Tomorrow topics to be covered:
+
+Topics we will cover tommorrow:
+
+Beaglebone Linux booting Process         1 What do we need to successfully boot linux on BBB ?   2 BBB boot options   3 BBB Linux boot sequence discussion: ROM and SPL   4 BBB Linux boot sequence discussion-MLO/SPL job   5 Why AM335x RBL cannot load the Uboot directly to DDR?   6 Booting RBL and MLO on BBB   7  Testing MLO image on BBB   8 Testing U-boot image on BBB   9 BBB Linux boot sequence Discussion-uboot   10 Decoding U-boot Header of uImage Manually   11 Linux boot sequence discussion-Boot strap loader part 1   12 linux boot sequence discussion - Kernel Entry   13 BBB eMMC update   14 Enabling Internet on BBB when host is Ubuntu
